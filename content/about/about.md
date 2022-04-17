@@ -1,5 +1,5 @@
 ---
-title: About Schmopera
+title: About DnD Base
 
 ---
 ## THIS IS WHAT WE'RE ABOUT.

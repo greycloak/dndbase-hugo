@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://candid-beignet-c56fdd.netlify.app/"
 languageCode = "en-us"
 title = "DnD Base"
 theme = "schmopera"
