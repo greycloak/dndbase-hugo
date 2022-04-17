@@ -1,6 +1,6 @@
-baseURL = "https://www.schmopera.com"
+baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "Schmopera"
+title = "DnD Base"
 theme = "schmopera"
 
 [taxonomies]
