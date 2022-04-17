@@ -1,4 +1,4 @@
-baseURL = "https://candid-beignet-c56fdd.netlify.app/"
+baseURL = "https://candid-beignet-c56fdd.netlify.app"
 languageCode = "en-us"
 title = "DnD Base"
 theme = "schmopera"
